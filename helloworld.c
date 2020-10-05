@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
 {
-cout<<"HelloWorld";
+printf("HelloWorld");
+  return 0;
 }
